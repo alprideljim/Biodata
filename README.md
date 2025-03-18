@@ -26,8 +26,7 @@ Sleman, Yogyakarta, Indonesia
 
 ---
 
-## 🚀 **Teknologi & Alat yang Saya Gunakan**
-Berikut beberapa teknologi yang saya gunakan:
+## 🚀 **Teknologi & Alat yang sedang saya pelajari**
 
 ### 💻 **Bahasa Pemrograman**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
