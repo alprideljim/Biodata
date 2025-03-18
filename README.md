@@ -1,4 +1,4 @@
-# Hi there, I'm **ALPRIDEL JIMNORIS** 👋
+#  **ALPRIDEL JIMNORIS** 
 
 🎓 **Student at Universitas Respati Yogyakarta (UNRIYO)**  
 💻 **Aspiring Software Developer**  
