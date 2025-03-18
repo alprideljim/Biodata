@@ -13,14 +13,16 @@ I am a passionate student and software developer with a strong interest in **web
 I believe in building impactful projects and always strive to improve my skills.  
 I am actively working on several personal projects and contributing to the open-source community. 🌱
 
-## 📍 **Location**  
+## 📍 **Location**
 ![Location](https://img.shields.io/badge/Location-Sleman%2C%20Yogyakarta%2C%20Indonesia-blue?style=flat&logo=location-arrow)  
 Sleman, Yogyakarta, Indonesia
 
-## 🌐 **Find Me On**  
-[![Website](https://img.shields.io/badge/Website-https%3A%2F%2Fgithub.com%2FwebsiteALL-blue?style=flat&logo=github)](https://github.com/websiteALL)  
-[![Twitter](https://img.shields.io/badge/Twitter-@X_Mr_Alp-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/X_Mr_Alp)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ALPRIDEL%20JIMNORIS-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url/)  
+---
+
+## 🌐 **Find Me On**
+- [![Website](https://img.shields.io/badge/Website-https%3A%2F%2Fgithub.com%2FwebsiteALL-blue?style=flat&logo=github)](https://github.com/websiteALL)
+- [![Twitter](https://img.shields.io/badge/Twitter-@X_Mr_Alp-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/X_Mr_Alp)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-ALPRIDEL%20JIMNORIS-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url/)
 
 ---
 
@@ -33,8 +35,6 @@ Here are some of the technologies I work with:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
-
----
 
 ### 🔧 **Frameworks & Tools**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
